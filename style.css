@@ -60,7 +60,7 @@
   text-align: center;
   margin-bottom: 40px;
   color: orange;
-  font-size: 160%;
+  font-size: 200%;
 }
 #welcome{
   margin-bottom: 20px;
@@ -92,4 +92,10 @@ code{
     text-align: center;
     padding-left: 0px;
   }
+    #lordrishav-official-site{
+  text-align: center;
+  margin-bottom: 40px;
+  color: orange;
+  font-size: 120%;
+}
 }
